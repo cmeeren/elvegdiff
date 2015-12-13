@@ -13,7 +13,7 @@ except:
             return iterable
 
 # globally ignored tags
-IGNORETAGS = ['KURVE']
+IGNORETAGS = ['KURVE', 'PUNKT']
 
 
 def equal_dicts(a, b, ignore_keys=None):

@@ -175,7 +175,6 @@ def main(f_old, f_new, f_out_prefix):
             node.getparent().remove(node)
 
     print('Scanning for changes in tagged nodes')
-    # TODO: deleted, new, changed (just like ways)
     old_node_list = [n for n in tree_old.findall('node') if len(n)]
     new_node_list = [n for n in tree_new.findall('node') if len(n)]
     old_nodes = {}

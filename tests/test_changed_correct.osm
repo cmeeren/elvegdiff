@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" upload="false" generator="sosi2osm">
+  <node id="-5" lat="60.5842512" lon="6.6134264" version="1" visible="true"/>
+  <node id="-6" lat="60.5841912" lon="6.6135485" version="1" visible="true"/>
+  <node id="-7" lat="60.5841848" lon="6.6137466" version="1" visible="true"/>
+  <node id="-8" lat="60.5842110" lon="6.6139049" version="1" visible="true"/>
+  <node id="-9" lat="60.5842327" lon="6.6140479" version="1" visible="true"/>
+  <node id="-10" lat="60.5842535" lon="6.6141489" version="1" visible="true"/>
+  <node id="-11" lat="60.5842864" lon="6.6142835" version="1" visible="true"/>
+  <node id="-12" lat="60.5843239" lon="6.6144058" version="1" visible="true"/>
+  <node id="-13" lat="60.5843538" lon="6.6145210" version="1" visible="true"/>
+  <node id="-14" lat="60.5843937" lon="6.6146519" version="1" visible="true"/>
+  <node id="-15" lat="60.5844209" lon="6.6147972" version="1" visible="true"/>
+  <node id="-16" lat="60.5844522" lon="6.6149634" version="1" visible="true"/>
+  <node id="-17" lat="60.5844353" lon="6.6150963" version="1" visible="true"/>
+  <node id="-18" lat="60.5843918" lon="6.6151516" version="1" visible="true"/>
+  <node id="-19" lat="60.5843210" lon="6.6151169" version="1" visible="true"/>
+  <node id="-20" lat="60.5842396" lon="6.6150152" version="1" visible="true"/>
+  <node id="-21" lat="60.5841852" lon="6.6149248" version="1" visible="true"/>
+  <node id="-22" lat="60.5841412" lon="6.6148427" version="1" visible="true"/>
+  <node id="-23" lat="60.5840888" lon="6.6147572" version="1" visible="true"/>
+  <node id="-24" lat="60.5840324" lon="6.6146783" version="1" visible="true"/>
+  <node id="-25" lat="60.5839790" lon="6.6145766" version="1" visible="true"/>
+  <node id="-26" lat="60.5839462" lon="6.6145008" version="1" visible="true"/>
+  <node id="-27" lat="60.5839025" lon="6.6143525" version="1" visible="true"/>
+  <node id="-28" lat="60.5838657" lon="6.6142410" version="1" visible="true"/>
+  <node id="-29" lat="60.5838439" lon="6.6140962" version="1" visible="true"/>
+  <node id="-30" lat="60.5838341" lon="6.6139409" version="1" visible="true"/>
+  <node id="-31" lat="60.5838239" lon="6.6138077" version="1" visible="true"/>
+  <node id="-32" lat="60.5838137" lon="6.6136746" version="1" visible="true"/>
+  <node id="-33" lat="60.5837860" lon="6.6135515" version="1" visible="true"/>
+  <node id="-34" lat="60.5837645" lon="6.6134397" version="1" visible="true"/>
+  <node id="-35" lat="60.5837344" lon="6.6133209" version="1" visible="true"/>
+  <node id="-36" lat="60.5836867" lon="6.6132232" version="1" visible="true"/>
+  <node id="-37" lat="60.5836292" lon="6.6131703" version="1" visible="true"/>
+  <node id="-38" lat="60.5835627" lon="6.6131179" version="1" visible="true"/>
+  <node id="-39" lat="60.5835013" lon="6.6130899" version="1" visible="true"/>
+  <node id="-40" lat="60.5834336" lon="6.6130746" version="1" visible="true"/>
+  <node id="-41" lat="60.5833630" lon="6.6130581" version="1" visible="true"/>
+  <node id="-42" lat="60.5832911" lon="6.6130493" version="1" visible="true"/>
+  <node id="-43" lat="60.5832236" lon="6.6130523" version="1" visible="true"/>
+  <node id="-44" lat="60.5831556" lon="6.6130333" version="1" visible="true"/>
+  <node id="-45" lat="60.5830941" lon="6.6129888" version="1" visible="true"/>
+  <node id="-46" lat="60.5830695" lon="6.6128851" version="1" visible="true"/>
+  <node id="-47" lat="60.5830596" lon="6.6127574" version="1" visible="true"/>
+  <node id="-48" lat="60.5830590" lon="6.6126199" version="1" visible="true"/>
+  <node id="-49" lat="60.5830654" lon="6.6124916" version="1" visible="true"/>
+  <node id="-50" lat="60.5830707" lon="6.6123618" version="1" visible="true"/>
+  <node id="-51" lat="60.5830772" lon="6.6122353" version="1" visible="true"/>
+  <node id="-52" lat="60.5830756" lon="6.6120962" version="1" visible="true"/>
+  <node id="-53" lat="60.5830711" lon="6.6119542" version="1" visible="true"/>
+  <node id="-54" lat="60.5830570" lon="6.6118166" version="1" visible="true"/>
+  <node id="-55" lat="60.5830431" lon="6.6116826" version="1" visible="true"/>
+  <node id="-56" lat="60.5830260" lon="6.6115549" version="1" visible="true"/>
+  <node id="-57" lat="60.5829945" lon="6.6114273" version="1" visible="true"/>
+  <node id="-58" lat="60.5829555" lon="6.6113108" version="1" visible="true"/>
+  <node id="-59" lat="60.5829211" lon="6.6111950" version="1" visible="true"/>
+  <node id="-60" lat="60.5828811" lon="6.6110752" version="1" visible="true"/>
+  <node id="-61" lat="60.5828402" lon="6.6109720" version="1" visible="true"/>
+  <node id="-62" lat="60.5827950" lon="6.6108701" version="1" visible="true"/>
+  <node id="-63" lat="60.5827473" lon="6.6107724" version="1" visible="true"/>
+  <node id="-64" lat="60.5826996" lon="6.6106894" version="1" visible="true"/>
+  <node id="-65" lat="60.5826457" lon="6.6106081" version="1" visible="true"/>
+  <node id="-66" lat="60.5825942" lon="6.6105224" version="1" visible="true"/>
+  <node id="-67" lat="60.5825424" lon="6.6104460" version="1" visible="true"/>
+  <node id="-68" lat="60.5824898" lon="6.6103698" version="1" visible="true"/>
+  <node id="-69" lat="60.5824383" lon="6.6102842" version="1" visible="true"/>
+  <node id="-70" lat="60.5823922" lon="6.6101971" version="1" visible="true"/>
+  <node id="-71" lat="60.5823384" lon="6.6101176" version="1" visible="true"/>
+  <node id="-72" lat="60.5822850" lon="6.6100434" version="1" visible="true"/>
+  <node id="-73" lat="60.5822300" lon="6.6099605" version="1" visible="true"/>
+  <node id="-74" lat="60.5821796" lon="6.6098764" version="1" visible="true"/>
+  <node id="-75" lat="60.5821320" lon="6.6097952" version="1" visible="true"/>
+  <node id="-76" lat="60.5820777" lon="6.6097066" version="1" visible="true"/>
+  <node id="-77" lat="60.5820294" lon="6.6096146" version="1" visible="true"/>
+  <node id="-78" lat="60.5819822" lon="6.6095242" version="1" visible="true"/>
+  <node id="-79" lat="60.5818827" lon="6.6093355" version="1" visible="true"/>
+  <node id="-80" lat="60.5818403" lon="6.6092511" version="1" visible="true"/>
+  <node id="-81" lat="60.5817890" lon="6.6091544" version="1" visible="true"/>
+  <node id="-82" lat="60.5817399" lon="6.6090479" version="1" visible="true"/>
+  <node id="-83" lat="60.5816956" lon="6.6089475" version="1" visible="true"/>
+  <node id="-84" lat="60.5816401" lon="6.6088556" version="1" visible="true"/>
+  <node id="-85" lat="60.5815859" lon="6.6087688" version="1" visible="true"/>
+  <node id="-86" lat="60.5815351" lon="6.6086793" version="1" visible="true"/>
+  <node id="-87" lat="60.5814834" lon="6.6085900" version="1" visible="true"/>
+  <node id="-88" lat="60.5814326" lon="6.6085152" version="1" visible="true"/>
+  <node id="-89" lat="60.5813859" lon="6.6084191" version="1" visible="true"/>
+  <node id="-90" lat="60.5813377" lon="6.6083271" version="1" visible="true"/>
+  <node id="-91" lat="60.5812896" lon="6.6082387" version="1" visible="true"/>
+  <node id="-92" lat="60.5812367" lon="6.6081443" version="1" visible="true"/>
+  <node id="-93" lat="60.5811820" lon="6.6080649" version="1" visible="true"/>
+  <node id="-94" lat="60.5811244" lon="6.6079956" version="1" visible="true"/>
+  <node id="-95" lat="60.5810708" lon="6.6079050" version="1" visible="true"/>
+  <node id="-96" lat="60.5810242" lon="6.6078254" version="1" visible="true"/>
+  <node id="-97" lat="60.5809620" lon="6.6077572" version="1" visible="true"/>
+  <node id="-98" lat="60.5809161" lon="6.6076918" version="1" visible="true"/>
+  <node id="-99" lat="60.5808580" lon="6.6076185" version="1" visible="true"/>
+  <node id="-100" lat="60.5808050" lon="6.6075384" version="1" visible="true"/>
+  <node id="-101" lat="60.5807575" lon="6.6074587" version="1" visible="true"/>
+  <node id="-102" lat="60.5807024" lon="6.6073754" version="1" visible="true"/>
+  <node id="-103" lat="60.5806527" lon="6.6072876" version="1" visible="true"/>
+  <node id="-104" lat="60.5806083" lon="6.6072016" version="1" visible="true"/>
+  <way id="-3" version="1" visible="true">
+    <tag k="KOMM" v="1234"/>
+    <tag k="KVALITET" v="20; 200"/>
+    <tag k="VFRADATO" v="20140301"/>
+    <tag k="VPA" v="1; 192; 962"/>
+    <tag k="VEGKLASSE" v="6"/>
+    <tag k="GATENR" v="1072"/>
+    <tag k="GATENAVN" v="Bulkovegen"/>
+    <tag k="TRANSID" v="305884641"/>
+    <tag k="OBJTYPE" v="VegSenterlinje"/>
+    <tag k="VNR" v="K; V; 1072"/>
+    <tag k="VKJORFLT" v="1#2"/>
+    <tag k="KURVE" v="3"/>
+    <tag k="DATAFANGSTDATO" v="19930701"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-23"/>
+    <nd ref="-24"/>
+    <nd ref="-25"/>
+    <nd ref="-26"/>
+    <nd ref="-27"/>
+    <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-36"/>
+    <nd ref="-37"/>
+    <nd ref="-38"/>
+    <nd ref="-39"/>
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-42"/>
+    <nd ref="-43"/>
+    <nd ref="-44"/>
+    <nd ref="-45"/>
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-48"/>
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-55"/>
+    <nd ref="-56"/>
+    <nd ref="-57"/>
+    <nd ref="-58"/>
+    <nd ref="-59"/>
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-62"/>
+    <nd ref="-63"/>
+    <nd ref="-64"/>
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-68"/>
+    <nd ref="-69"/>
+    <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-72"/>
+    <nd ref="-73"/>
+    <nd ref="-74"/>
+    <nd ref="-75"/>
+    <nd ref="-76"/>
+    <nd ref="-77"/>
+    <nd ref="-78"/>
+    <nd ref="-79"/>
+    <nd ref="-80"/>
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-84"/>
+    <nd ref="-85"/>
+    <nd ref="-86"/>
+    <nd ref="-87"/>
+    <nd ref="-88"/>
+    <nd ref="-89"/>
+    <nd ref="-90"/>
+    <nd ref="-91"/>
+    <nd ref="-92"/>
+    <nd ref="-93"/>
+    <nd ref="-94"/>
+    <nd ref="-95"/>
+    <nd ref="-96"/>
+    <nd ref="-97"/>
+    <nd ref="-98"/>
+    <nd ref="-99"/>
+    <nd ref="-100"/>
+    <nd ref="-101"/>
+    <nd ref="-102"/>
+    <nd ref="-103"/>
+    <nd ref="-104"/>
+    <tag k="ELVEGDIFF_CHANGES" v="CHANGED KEYS: GATENAVN (Bulkovegen_feil -&gt; Bulkovegen) | GATENR (1071 -&gt; 1072)"/>
+  </way>
+  <node id="-105" lat="60.5902705" lon="6.6286441" version="1" visible="true"/>
+  <node id="-106" lat="60.5903041" lon="6.6287031" version="1" visible="true"/>
+  <node id="-107" lat="60.5903469" lon="6.6287819" version="1" visible="true"/>
+  <node id="-108" lat="60.5903663" lon="6.6288319" version="1" visible="true"/>
+  <way id="-4" version="1" visible="true">
+    <tag k="KOMM" v="1234"/>
+    <tag k="KVALITET" v="20; 200"/>
+    <tag k="VFRADATO" v="20120101"/>
+    <tag k="VPA" v="1; 0; 15"/>
+    <tag k="VEGKLASSE" v="6"/>
+    <tag k="GATENR" v="1011"/>
+    <tag k="GATENAVN" v="Brekkevegen"/>
+    <tag k="TRANSID" v="145925955"/>
+    <tag k="OBJTYPE" v="VegSenterlinje"/>
+    <tag k="VNR" v="K; V; 1011"/>
+    <tag k="VKJORFLT" v="1#2"/>
+    <tag k="KURVE" v="4"/>
+    <tag k="DATAFANGSTDATO" v="19930701"/>
+    <nd ref="-105"/>
+    <nd ref="-106"/>
+    <nd ref="-107"/>
+    <nd ref="-108"/>
+    <tag k="ELVEGDIFF_CHANGES" v="NODE ATTRIBUTES DIFFER (COORDINATES?)"/>
+  </way>
+  <node id="-109" lat="60.5904252" lon="6.6290203" version="1" visible="true"/>
+  <node id="-110" lat="60.5904710" lon="6.6291736" version="1" visible="true"/>
+  <way id="-5" version="1" visible="true">
+    <tag k="KOMM" v="1234"/>
+    <tag k="KVALITET" v="20; 200"/>
+    <tag k="MEDIUM" v="L"/>
+    <tag k="VFRADATO" v="20120101"/>
+    <tag k="VPA" v="1; 15; 37"/>
+    <tag k="VEGKLASSE" v="6"/>
+    <tag k="VNR" v="K; V; 1011"/>
+    <tag k="GATENAVN" v="Brekkevegen"/>
+    <tag k="TRANSID" v="145925956"/>
+    <tag k="OBJTYPE" v="VegSenterlinje"/>
+    <tag k="GATENR" v="1011"/>
+    <tag k="VKJORFLT" v="1#2"/>
+    <tag k="KURVE" v="5"/>
+    <tag k="DATAFANGSTDATO" v="19930701"/>
+    <nd ref="-109"/>
+    <nd ref="-110"/>
+    <tag k="ELVEGDIFF_CHANGES" v="NODE COUNT DIFFERS (3 -&gt; 2)"/>
+  </way>
+  <node id="-19947" lat="60.5422514" lon="6.7037099" version="1" visible="true">
+    <tag k="KOMM" v="1234"/>
+    <tag k="VFRADATO" v="19930701"/>
+    <tag k="VPA" v="1; 2069; 2069"/>
+    <tag k="OBJTYPE" v="Planovergang"/>
+    <tag k="VNR" v="K; V; 1034"/>
+    <tag k="DATAFANGSTDATO" v="19930701"/>
+    <tag k="PUNKT" v="506"/>
+    <tag k="KVALITET" v="20; 200; 0"/>
+    <tag k="ELVEGDIFF_CHANGES" v="NEW TAGGED NODE"/>
+  </node>
+  <node id="-19958" lat="60.5948076" lon="6.8418288" version="1" visible="true">
+    <tag k="KOMM" v="1233"/>
+    <tag k="OBJTYPE" v="Kommunedele"/>
+    <tag k="DATAFANGSTDATO" v="20071102"/>
+    <tag k="PUNKT" v="517"/>
+    <tag k="KVALITET" v="20; 200"/>
+    <tag k="ELVEGDIFF_CHANGES" v="CHANGED KEYS: OBJTYPE (Kommunedele_feil -&gt; Kommunedele)"/>
+  </node>
+</osm>

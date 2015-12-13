@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" upload="false" generator="sosi2osm">
+  <node id="-1" lat="60.5854797" lon="6.6152219" version="1" visible="true"/>
+  <node id="-2" lat="60.5854413" lon="6.6152283" version="1" visible="true"/>
+  <node id="-3" lat="60.5853999" lon="6.6152299" version="1" visible="true"/>
+  <way id="-1" version="1" visible="true">
+    <tag k="KOMM" v="1234"/>
+    <tag k="KVALITET" v="20; 200"/>
+    <tag k="VFRADATO" v="20140301"/>
+    <tag k="VPA" v="1; 0; 9"/>
+    <tag k="VEGKLASSE" v="6"/>
+    <tag k="GATENR" v="1072"/>
+    <tag k="GATENAVN" v="Bulkovegen"/>
+    <tag k="TRANSID" v="145925953"/>
+    <tag k="OBJTYPE" v="VegSenterlinje"/>
+    <tag k="VNR" v="K; V; 1072"/>
+    <tag k="VKJORFLT" v="1#2"/>
+    <tag k="KURVE" v="1"/>
+    <tag k="DATAFANGSTDATO" v="19930701"/>
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+  </way>
+  <node id="-110" lat="60.5904710" lon="6.6291736" version="1" visible="true"/>
+  <node id="-111" lat="60.5905233" lon="6.6293600" version="1" visible="true"/>
+  <node id="-112" lat="60.5905567" lon="6.6294596" version="1" visible="true"/>
+  <node id="-113" lat="60.5905965" lon="6.6295759" version="1" visible="true"/>
+  <node id="-114" lat="60.5906402" lon="6.6296820" version="1" visible="true"/>
+  <node id="-115" lat="60.5906825" lon="6.6297793" version="1" visible="true"/>
+  <node id="-116" lat="60.5907300" lon="6.6298605" version="1" visible="true"/>
+  <node id="-117" lat="60.5907808" lon="6.6299354" version="1" visible="true"/>
+  <node id="-118" lat="60.5908384" lon="6.6299902" version="1" visible="true"/>
+  <node id="-119" lat="60.5909058" lon="6.6300130" version="1" visible="true"/>
+  <node id="-120" lat="60.5909727" lon="6.6300433" version="1" visible="true"/>
+  <node id="-121" lat="60.5910360" lon="6.6300727" version="1" visible="true"/>
+  <node id="-122" lat="60.5910995" lon="6.6300928" version="1" visible="true"/>
+  <node id="-123" lat="60.5911652" lon="6.6301179" version="1" visible="true"/>
+  <node id="-124" lat="60.5912268" lon="6.6301496" version="1" visible="true"/>
+  <node id="-125" lat="60.5912941" lon="6.6301853" version="1" visible="true"/>
+  <node id="-126" lat="60.5913582" lon="6.6302145" version="1" visible="true"/>
+  <node id="-127" lat="60.5914231" lon="6.6302417" version="1" visible="true"/>
+  <node id="-128" lat="60.5914930" lon="6.6302620" version="1" visible="true"/>
+  <node id="-129" lat="60.5915557" lon="6.6302970" version="1" visible="true"/>
+  <node id="-130" lat="60.5916192" lon="6.6303448" version="1" visible="true"/>
+  <node id="-131" lat="60.5916793" lon="6.6303952" version="1" visible="true"/>
+  <node id="-132" lat="60.5917357" lon="6.6304447" version="1" visible="true"/>
+  <node id="-133" lat="60.5917991" lon="6.6305053" version="1" visible="true"/>
+  <node id="-134" lat="60.5918556" lon="6.6305567" version="1" visible="true"/>
+  <node id="-135" lat="60.5919151" lon="6.6306128" version="1" visible="true"/>
+  <node id="-136" lat="60.5919730" lon="6.6306582" version="1" visible="true"/>
+  <node id="-137" lat="60.5920345" lon="6.6307175" version="1" visible="true"/>
+  <node id="-138" lat="60.5920914" lon="6.6307889" version="1" visible="true"/>
+  <node id="-139" lat="60.5921518" lon="6.6308448" version="1" visible="true"/>
+  <node id="-140" lat="60.5922136" lon="6.6309076" version="1" visible="true"/>
+  <node id="-141" lat="60.5922689" lon="6.6309685" version="1" visible="true"/>
+  <node id="-142" lat="60.5923269" lon="6.6310305" version="1" visible="true"/>
+  <node id="-143" lat="60.5923802" lon="6.6311157" version="1" visible="true"/>
+  <node id="-144" lat="60.5924250" lon="6.6312105" version="1" visible="true"/>
+  <node id="-145" lat="60.5924549" lon="6.6313422" version="1" visible="true"/>
+  <node id="-146" lat="60.5924599" lon="6.6314786" version="1" visible="true"/>
+  <node id="-147" lat="60.5924638" lon="6.6316116" version="1" visible="true"/>
+  <node id="-148" lat="60.5924546" lon="6.6317517" version="1" visible="true"/>
+  <node id="-149" lat="60.5924341" lon="6.6318856" version="1" visible="true"/>
+  <node id="-150" lat="60.5924047" lon="6.6320199" version="1" visible="true"/>
+  <node id="-151" lat="60.5923771" lon="6.6321409" version="1" visible="true"/>
+  <node id="-152" lat="60.5923436" lon="6.6322690" version="1" visible="true"/>
+  <node id="-153" lat="60.5923181" lon="6.6323086" version="1" visible="true"/>
+  <way id="-6" version="1" visible="true">
+    <tag k="KOMM" v="1234"/>
+    <tag k="KVALITET" v="20; 200"/>
+    <tag k="VFRADATO" v="20120101"/>
+    <tag k="VPA" v="1; 37; 357"/>
+    <tag k="VEGKLASSE" v="6"/>
+    <tag k="GATENR" v="1011"/>
+    <tag k="GATENAVN" v="Brekkevegen"/>
+    <tag k="TRANSID" v="145925957"/>
+    <tag k="OBJTYPE" v="VegSenterlinje"/>
+    <tag k="VNR" v="K; V; 1011"/>
+    <tag k="VKJORFLT" v="1#2"/>
+    <tag k="KURVE" v="6"/>
+    <tag k="DATAFANGSTDATO" v="19930701"/>
+    <nd ref="-110"/>
+    <nd ref="-111"/>
+    <nd ref="-112"/>
+    <nd ref="-113"/>
+    <nd ref="-114"/>
+    <nd ref="-115"/>
+    <nd ref="-116"/>
+    <nd ref="-117"/>
+    <nd ref="-118"/>
+    <nd ref="-119"/>
+    <nd ref="-120"/>
+    <nd ref="-121"/>
+    <nd ref="-122"/>
+    <nd ref="-123"/>
+    <nd ref="-124"/>
+    <nd ref="-125"/>
+    <nd ref="-126"/>
+    <nd ref="-127"/>
+    <nd ref="-128"/>
+    <nd ref="-129"/>
+    <nd ref="-130"/>
+    <nd ref="-131"/>
+    <nd ref="-132"/>
+    <nd ref="-133"/>
+    <nd ref="-134"/>
+    <nd ref="-135"/>
+    <nd ref="-136"/>
+    <nd ref="-137"/>
+    <nd ref="-138"/>
+    <nd ref="-139"/>
+    <nd ref="-140"/>
+    <nd ref="-141"/>
+    <nd ref="-142"/>
+    <nd ref="-143"/>
+    <nd ref="-144"/>
+    <nd ref="-145"/>
+    <nd ref="-146"/>
+    <nd ref="-147"/>
+    <nd ref="-148"/>
+    <nd ref="-149"/>
+    <nd ref="-150"/>
+    <nd ref="-151"/>
+    <nd ref="-152"/>
+    <nd ref="-153"/>
+  </way>
+  <node id="-19950" lat="60.5234441" lon="6.7212915" version="1" visible="true">
+    <tag k="KOMM" v="1234"/>
+    <tag k="VFRADATO" v="19930701"/>
+    <tag k="VPA" v="1; 65; 65"/>
+    <tag k="OBJTYPE" v="Planovergang"/>
+    <tag k="VNR" v="P; V; 1048"/>
+    <tag k="DATAFANGSTDATO" v="19930701"/>
+    <tag k="PUNKT" v="509"/>
+    <tag k="KVALITET" v="20; 200; 0"/>
+  </node>
+</osm>

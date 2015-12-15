@@ -64,8 +64,8 @@ def main(fn_old, fn_new, fn_out_prefix):
 
 def parse_args_and_run():
     parser = argparse.ArgumentParser(description='Diffs XXXXFart.txt and XXXXHoyde.txt files')
-    parser.add_argument('f_old', metavar='old.osm')
-    parser.add_argument('f_new', metavar='new.osm')
+    parser.add_argument('f_old', metavar='old.txt')
+    parser.add_argument('f_new', metavar='new.txt')
     parser.add_argument('f_out_prefix', metavar='out_prefix_', default='fagdiff_', nargs='?')
 
     args = parser.parse_args()

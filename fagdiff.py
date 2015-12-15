@@ -21,11 +21,11 @@ def main(fn_old, fn_new, fn_out_prefix):
 
             # read rest of file
             for line in fh.readlines():
-                komm, transid, kode, fra, til, felt, value, _ = line.split(';')
+                komm, transid, kode, fra, til, felt, limit, _ = line.split(';')
                 if transid in data:
-                    data[transid].append(dict(fra=fra, til=til, felt=felt, value=value))
+                    data[transid].append(dict(fra=fra, til=til, felt=felt, limit=limit))
                 else:
-                    data[transid] = [dict(fra=fra, til=til, felt=felt, value=value)]
+                    data[transid] = [dict(fra=fra, til=til, felt=felt, limit=limit)]
 
     # compare data
     transid_common = set(data_old).intersection(data_new)
@@ -40,7 +40,7 @@ def main(fn_old, fn_new, fn_out_prefix):
         only_fratil_changed = \
             len(data_old[transid]) == len(data_new[transid]) == 1 and \
             data_old[transid][0]['felt'] == data_new[transid][0]['felt'] and \
-            data_old[transid][0]['value'] == data_new[transid][0]['value']
+            data_old[transid][0]['limit'] == data_new[transid][0]['limit']
 
         if data_old[transid] != data_new[transid] and not only_fratil_changed:
             transid_changed.append(transid)
